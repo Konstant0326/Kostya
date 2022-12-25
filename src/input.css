@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Marcellus-Regular';
+    src: url("./fonts/marcellus/Marcellus-Regular.woff") format('woff'),
+         url("./fonts/marcellus/Marcellus-Regular.woff2") format('woff2');
+    
+  }
+
+@font-face {
+    font-family: 'Open-sans';
+    src: url("./fonts/open-sans/OpenSans-Regular.woff") format('woff'),
+         url("./fonts/open-sans/OpenSans-Regular.woff") format('woff2');
+   
+  }
